@@ -21,8 +21,6 @@ Find the div with the id of "alias3" and replace the n/a with the following:
 Concatenation*/
 
 
-
-
 /*4. Prince
 
 Find the div with the class name of "profile" and replace the n/a with a verse from your favorite Prince song.*/
@@ -47,11 +45,10 @@ Create a div element and give it an id of "name7". Inside this div element, give
 
 Append this div element to the nameParent div*/
 
-
  
-/*8. Tim Duncan
+/*8. The Dos Equis Dude
 
-Create a div element give it an id of "alias8". Inside this div element, give it the contents of "Old Man Riverwalk".
+Create a div element give it an id of "alias8". Inside this div element, give it the contents of "Stay Thirsty My Friends".
 
 Append this div element to the aliasParent div.*/
 
