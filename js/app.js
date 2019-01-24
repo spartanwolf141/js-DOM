@@ -41,9 +41,9 @@ Find the div with the class name of "alias" and replace the n/a with your favori
 
 
 
-/*7. Peter Griffin
+/*7. David Ige
 
-Create a div element and give it an id of "name7". Inside this div element, give it the contents of "Peter Griffin".
+Create a div element and give it an id of "name7". Inside this div element, give it the contents of "David Ige".
 
 Append this div element to the nameParent div*/
 
